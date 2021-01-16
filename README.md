@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td width="274">
-      <img align="center" alt="Yespark" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" />
+      <img align="center" width="100" height="100" alt="Yespark" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" />
     </td>
     <td>
       <p>
