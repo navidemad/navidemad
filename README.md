@@ -35,8 +35,8 @@
 
 <table>
   <tr>
-    <td width="274">
-      <img align="center" width="100" height="100" alt="Yespark" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" />
+    <td width="274" align="center">
+      <img width="130" height="130" alt="Yespark" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" />
     </td>
     <td>
       <p>
@@ -50,8 +50,8 @@
     </td>
   </tr>
   <tr>
-    <td width="274">
-      <img align="center" alt="Epitech" src="https://github.com/navidemad/navidemad/blob/main/img/logo-epitech-baseline.png?raw=true" />
+    <td width="274" align="center">
+      <img alt="Epitech" src="https://github.com/navidemad/navidemad/blob/main/img/logo-epitech-baseline.png?raw=true" />
     </td>
     <td>
       <p>
