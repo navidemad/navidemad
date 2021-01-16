@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" alt="WELCOME" src="https://github.com/navidemad/navidemad/blob/main/img/welcome.gif?raw=true" width="500" height="320" />
+      <img align="left" alt="WELCOME" src="https://github.com/navidemad/navidemad/blob/main/img/welcome2.gif?raw=true" width="500" height="320" />
     </td>
     <td>
       <p align="left">
@@ -71,7 +71,6 @@
     <td>
       <p>
         Graduated in 2017 from EPITECH Paris (innovative pedagogy in the form of mini-projects, allow to acquire recognized expertise in computer science as well as qualities of self-study, rigor and autonomy).
-        ![Epitech Logo](<./img/logo-epitech.png>) 
       </p>
     </td>
   </tr>
