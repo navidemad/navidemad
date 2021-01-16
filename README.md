@@ -11,21 +11,21 @@
         <u>Fullstack Ninja Developer</u>
         </br>🏠 <b>Paris, France</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>.
       </p>
-      <p>
+      <p align="center">
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
         <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
         <img alt="Postgres" src="https://img.shields.io/badge/-Postgresql-32648c?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <p>
+      <p align="center">
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img alt="jquery" src="https://img.shields.io/badge/-jQuery-0c64a7?style=flat-square&logo=jquery&logoColor=white" />  
       </p>
-      <p>
+      <p align="center">
         <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
       </p>
-      <p>
+      <p align="center">
         <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap%204-533c77?style=flat-square&logo=bootstrap&logoColor=white" />
         <img alt="Sass" src="https://img.shields.io/badge/-SCSS-c66493?style=flat-square&logo=sass&logoColor=white" />
       </p>
@@ -35,8 +35,8 @@
 
 <table>
   <tr>
-    <td>
-      <img align="center" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" width="100" height="100" />
+    <td width="274">
+      <img align="center" alt="Yespark" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" />
     </td>
     <td>
       <p>
@@ -50,8 +50,8 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img align="center" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-epitech-baseline.png?raw=true" width="274" height="100" />
+    <td width="274">
+      <img align="center" alt="Epitech" src="https://github.com/navidemad/navidemad/blob/main/img/logo-epitech-baseline.png?raw=true" />
     </td>
     <td>
       <p>
