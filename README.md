@@ -5,16 +5,7 @@
     </td>
     <td>
       <p align="left">
-        <a href="https://github.com/navidemad/navidemad">
-          <img src="https://komarev.com/ghpvc/?username=navidemad" alt="page views" />
-        </a>
-        <a href="https://stackoverflow.com/users/2851845">
-          <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2851845?color=orange&label=reputation&logo=stackoverflow">
-        </a>
-        <a href="https://github.com/navidemad?tab=followers">
-          <img alt="GitHub followers" src="https://img.shields.io/github/followers/navidemad?color=green&logo=github">
-        </a>
-        <b>Welcome !</b></br>I'm Navid, <u>Fullstack Ruby on Rails Ninja Developer</u> from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
+        <b>Welcome !</b></br>I'm Navid, <u>Fullstack Ruby on Rails Ninja Developer</u></br>from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
       </p>
       <p>
         <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-ce0102?style=for-the-badge&logo=ruby&logoColor=white" /> 
@@ -37,24 +28,35 @@
         <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap%204-533c77?style=flat-square&logo=bootstrap&logoColor=white" />
         <img alt="Sass" src="https://img.shields.io/badge/-SCSS-c66493?style=flat-square&logo=sass&logoColor=white" />
       </p>
+      <p>
+        <a href="https://github.com/navidemad/navidemad">
+          <img src="https://komarev.com/ghpvc/?username=navidemad" alt="page views" />
+        </a>
+        <a href="https://stackoverflow.com/users/2851845">
+          <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2851845?color=orange&label=reputation&logo=stackoverflow">
+        </a>
+        <a href="https://github.com/navidemad?tab=followers">
+          <img alt="GitHub followers" src="https://img.shields.io/github/followers/navidemad?color=green&logo=github">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 
-<h1>Current position</h1>
+<h1>Working as fullstack developer Rails for Yespark</h1>
 <table>
   <tr>
     <td>
-      <img align="left" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" width="100" height="100" />
+      <img align="center" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" width="100" height="100" />
     </td>
     <td>
       <p>
-        <b>Working as fullstack developer Rails for <u>Yespark</u></b> <i>(leader parking lot rental in France)</i>
+        <h3>Leader company in parking lot rental in France</h3>
         <br>
-        We are recruiting! 🚀🚀 Dev, Marketing, Business development
+        We are recruiting : Dev, Marketing, Business development 🚀🚀
         <br>
-        Get on the rocket → [https://www.yespark.fr/jobs](www.yespark.fr/jobs)
+        Get on the rocket → https://www.yespark.fr/jobs
       </p>
     </td>
   </tr>
@@ -64,7 +66,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-epitech.png?raw=true" width="189" height="70" />
+      <img align="center" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-epitech-baseline.png?raw=true" width="189" height="70" />
     </td>
     <td>
       <p>
