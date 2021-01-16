@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://github.com/navidemad/navidemad/blob/master/img/welcome.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/welcome.gif?raw=true" width="500" height="320" />
 
-<p>
+<p style="padding-left: 20px">
   <a href="https://github.com/navidemad/navidemad">
     <img src="https://komarev.com/ghpvc/?username=navidemad" alt="page views" />
   </a>
@@ -33,14 +33,18 @@
   <img alt="Sass" src="https://img.shields.io/badge/-SCSS-c66493?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-Graduated from Epitech Computer Science School in Paris
-
-![Logo](<./img/logo-yespark-rounded.png>) 
+<img align="left" alt="GIF" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" width="100" height="100" />
 <p>
-  Actualling working for Yespark (parking lot rental)
+  <b>Working for <u>Yespark</u></b> <i>(parking lot rental)</i>
   <br>
-  We are recruiting! 🚀🚀Dev, Marketing, Business development, get on the rocket → www.yespark.fr/jobs
+  We are recruiting! 🚀🚀 Dev, Marketing, Business development
+  <br>
+  Get on the rocket → ![www.yespark.fr/jobs](www.yespark.fr/jobs)
 </p>
+
+<hr>
+<br>
+<br>
 <p>
   Graduated in 2017 from EPITECH Paris (innovative pedagogy in the form of mini-projects, allow to acquire recognized expertise in computer science as well as qualities of self-study, rigor and autonomy).
   ![Epitech Logo](<./img/logo-epitech.png>) 
