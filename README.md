@@ -1,14 +1,15 @@
 <table>
   <tr>
     <td>
-      <img align="left" alt="WELCOME" src="https://github.com/navidemad/navidemad/blob/main/img/welcome2.gif?raw=true" width="500" height="320" />
+      <img align="center" alt="WELCOME" src="https://github.com/navidemad/navidemad/blob/main/img/welcome2.gif?raw=true" width="500" height="320" />
     </td>
     <td>
-      <p align="left">
-        <b>Welcome ! I'm Navid</b></br><u>Fullstack Ruby on Rails Ninja Developer</u></br>from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
-      </p>
-      <p>
-        <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-ce0102?style=for-the-badge&logo=ruby&logoColor=white" /> 
+      <p align="center">
+        <b>Welcome ! I'm Navid</b></br>
+        <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-ce0102?style=for-the-badge&logo=ruby&logoColor=white" />
+        </br>
+        <u>Fullstack Ninja Developer</u>
+        </br>🏠 <b>Paris, France</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>.
       </p>
       <p>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -40,11 +41,11 @@
     <td>
       <p>
         <h3>Working as fullstack developer Rails for Yespark</h3>
-        <h5>Leader company in parking lot rental in France</h5>
-        <br>
-        We are recruiting : Dev, Marketing, Business development 🚀🚀
-        <br>
-        Get on the rocket → https://www.yespark.fr/jobs
+        <b>Leader company in parking lot rental in France</b>
+        </br>
+        We are recruiting : Dev, Marketing, Business development
+        </br>
+        Get on the rocket 🚀 https://www.yespark.fr/jobs
       </p>
     </td>
   </tr>
@@ -54,8 +55,8 @@
     </td>
     <td>
       <p>
-        <h3>Epitech Computer Sciences Major in 2017</h3>
-        Graduated in 2017 from EPITECH Paris (innovative pedagogy in the form of mini-projects, allow to acquire recognized expertise in computer science as well as qualities of self-study, rigor and autonomy).
+        <h3>Epitech Paris Computer Sciences Major in 2017</h3>
+        Innovative pedagogy School following modern model built on experience, oriented towards action and project development, enriching theory through practical application. We learned qualities of self-study, rigor and autonomy.
       </p>
     </td>
   </tr>
