@@ -34,7 +34,7 @@ jobs:
 
       - name: Generate Self-Signed Certificates
         run: |
-          openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -subj "/C=US/ST=Denial/L=Springfield/O=Dis/CN=localhost" -keyout localhost.key -out localhost.crt
+          openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -subj "/C=US/ST=Denial/L=Springfield/O=Dis/CN=0.0.0.0" -keyout zero.key -out zero.crt
           mkdir -p config/credentials
           mv zero.key config/credentials/zero.key
           mv zero.crt config/credentials/zero.crt
