@@ -205,7 +205,6 @@ DEPENDENCIES
   propshaft
   puma (>= 5.0)
   rails!
-  tzinfo-data
 
 RUBY VERSION
    ruby 3.2.2p53
