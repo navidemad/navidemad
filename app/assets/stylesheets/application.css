@@ -1,1 +1,2 @@
-/* Application styles */
+* { color: red; font-size: 14px; font-weight: bold; }
+body { text-align: center; margin: 0; }
