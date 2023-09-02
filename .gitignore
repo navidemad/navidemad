@@ -32,6 +32,3 @@
 
 # Ignore static-website
 /static-website
-
-# Ignore self certicate SSL
-/config/credentials

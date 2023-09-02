@@ -32,20 +32,13 @@ jobs:
       - name: Precompile Assets
         run: RAILS_ENV=production bundle exec rails assets:precompile
 
-      - name: Generate Self-Signed Certificates
-        run: |
-          openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -subj "/C=US/ST=Denial/L=Springfield/O=Dis/CN=0.0.0.0" -keyout zero.key -out zero.crt
-          mkdir -p config/credentials
-          mv zero.key config/credentials/zero.key
-          mv zero.crt config/credentials/zero.crt
-
       - name: Start Rails Server
         run: |
-          bundle exec rails s -b 'ssl://0.0.0.0:3000?key=config/credentials/zero.key&cert=config/credentials/zero.crt' -e production &
+          bundle exec rails s -e production &
           sleep 5
 
       - name: Generate Static HTML from Rails App
-        run: wget --https-only --secure-protocol=auto --no-check-certificate --cut-dirs=1 -nH -P ./static-website -mkEpnp https://0.0.0.0:3000
+        run: wget --cut-dirs=1 -nH -P ./static-website -mkEpnp http://0.0.0.0:3000
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@master
