@@ -43,18 +43,18 @@ jobs:
 
       - name: Output error
         run: |
-          ls -la logs/
-          cat logs/production.log
+          ls -la log/
+          cat log/production.log
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@master
-        with:
-          path: './static-website'
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@master
+      #   with:
+      #     path: './static-website'
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
-          directory: './static-website'
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: gh-pages
+      #     directory: './static-website'
