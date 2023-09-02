@@ -34,5 +34,6 @@
 /static-website
 
 # Ignore self certicate SSL
+!/config/credentials/.keep
 /config/credentials/localhost.crt
 /config/credentials/localhost.key
