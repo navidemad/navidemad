@@ -38,7 +38,7 @@ jobs:
           sleep 5
 
       - name: Generate Static HTML from Rails App
-        run: wget --cut-dirs=1 -nH -P ./static-website -mkEpnp http://0.0.0.0:3000
+        run: wget --cut-dirs=1 --no-host-directories --directory-prefix=./static-website --mirror --convert-links --adjust-extension --page-requisites --no-parent --debug --verbose http://0.0.0.0:3000
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@master
