@@ -1,0 +1,56 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Source Code (Retrieve Repository)
+        uses: actions/checkout@master
+
+      - name: 💎 Setup Ruby & Install Dependencies (Prepare Ruby Environment)
+        uses: ruby/setup-ruby@master
+        with:
+          bundler-cache: true
+
+      - name: Precompile Assets
+        run: RAILS_ENV=production bundle exec rails assets:precompile
+
+      - name: Start Rails Server
+        run: |
+          bundle exec rails server -e production &
+          sleep 5
+
+      - name: Generate Static HTML from Rails App
+        run: |
+          # sudo apt-get install -y wget
+          wget -mkEpnp -P ./static-website http://localhost:3000
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@master
+        with:
+          path: './static-website'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          directory: './static-website'
