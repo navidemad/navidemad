@@ -3,14 +3,11 @@
 <table>
   <tr>
     <td>
-      <img width="84" height="84" alt="Yespark" src="https://github.com/navidemad/navidemad/blob/main/img/logo-yespark-rounded.png?raw=true" />
-    </td>
-    <td>
       <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-ce0102?style=for-the-badge&logo=ruby&logoColor=white" />
       <br>
       <u>Lead Fullstack Rails Developer</u>
       <br>
-      🏠 <b>Paris, France @Yespark</b>
+      🏠 <b>Paris, France</b>
     </td>
   </tr>
 </table>
