@@ -29,7 +29,6 @@ I'm available for freelance / consulting engagements around **agentic AI systems
       <img alt="Stimulus" src="https://img.shields.io/badge/-Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black" />
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <img alt="daisyUI" src="https://img.shields.io/badge/-daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-c66493?style=for-the-badge&logo=sass&logoColor=white" />
     </td>
   </tr>
@@ -58,36 +57,37 @@ I'm available for freelance / consulting engagements around **agentic AI systems
 
 ### 🌍 Open Source
 
-**[99 merged PRs](https://github.com/search?q=is%3Apr+author%3Anavidemad+is%3Amerged+-user%3Anavidemad&type=pullrequests) across 16 OSS repos** — touching Rails core, Lightpanda, Datadog, New Relic, and beyond. Combined ⭐ of touched repos: **~146k**.
+**[99 merged PRs](https://github.com/search?q=is%3Apr+author%3Anavidemad+is%3Amerged+-user%3Anavidemad&type=pullrequests) across 16 OSS repos** — touching Rails core, Lightpanda, Datadog, New Relic, and beyond.
+Combined ⭐ of touched repos: **~146k**.
 
 **🛠️ Maintainer of:**
 
-| Repo | ⭐ | Description |
-| --- | --- | --- |
-| **[navidemad/capybara-lightpanda](https://github.com/navidemad/capybara-lightpanda)** | 3 | Run Capybara system tests on [Lightpanda](https://lightpanda.io), the ultra-fast headless browser built in Zig. |
+| Repo                                                                        | ⭐  | Description                                                                                                     |
+| --------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| **[capybara-lightpanda](https://github.com/navidemad/capybara-lightpanda)** | 3   | Run Capybara system tests on [Lightpanda](https://lightpanda.io), the ultra-fast headless browser built in Zig. |
 
 **🚀 Sustained contributions (multi-PR engagements):**
 
-| Repo | PRs | ⭐ | Description |
-| --- | --- | --- | --- |
-| **[hostolab/covidliste](https://github.com/hostolab/covidliste)** | 43 | 252 | Rails platform that accelerated France's Covid-19 vaccination drive. |
-| **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** | 38 | 30.3k | Headless browser designed for AI & automation, built in Zig. |
-| **[glebm/i18n-tasks](https://github.com/glebm/i18n-tasks)** | 3 | 2.2k | Static analysis for Ruby i18n translations. |
-| **[NecronomiconCoding/NecroBot](https://github.com/NecronomiconCoding/NecroBot)** | 3 | 2.4k | Open-source Pokémon Go automation bot. |
+| Repo                                                                              | PRs | ⭐    | Description                                                          |
+| --------------------------------------------------------------------------------- | --- | ----- | -------------------------------------------------------------------- |
+| **[hostolab/covidliste](https://github.com/hostolab/covidliste)**                 | 43  | 252   | Rails platform that accelerated France's Covid-19 vaccination drive. |
+| **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)**             | 38  | 30.3k | Headless browser designed for AI & automation, built in Zig.         |
+| **[glebm/i18n-tasks](https://github.com/glebm/i18n-tasks)**                       | 3   | 2.2k  | Static analysis for Ruby i18n translations.                          |
+| **[NecronomiconCoding/NecroBot](https://github.com/NecronomiconCoding/NecroBot)** | 3   | 2.4k  | Open-source Pokémon Go automation bot.                               |
 
 **🧩 Ecosystem & one-off contributions:**
 
-| Repo | ⭐ | Description |
-| --- | --- | --- |
-| **[rails/rails](https://github.com/rails/rails)** | 58.4k | The Ruby on Rails framework itself. |
-| **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** | 48.5k | CLI proxy that cuts LLM token use by 60–90% on dev commands. |
-| **[newrelic/newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent)** | 1.2k | New Relic's Ruby APM agent. |
-| **[rails/jsbundling-rails](https://github.com/rails/jsbundling-rails)** | 921 | JavaScript bundling for Rails (esbuild, rollup, bun, Webpack). |
-| **[rails/cssbundling-rails](https://github.com/rails/cssbundling-rails)** | 629 | CSS bundling for Rails (Tailwind, PostCSS, Sass). |
-| **[mhfs/sidekiq-failures](https://github.com/mhfs/sidekiq-failures)** | 579 | Track Sidekiq failed jobs. |
-| **[MobBotTeam/PokeMobBot](https://github.com/MobBotTeam/PokeMobBot)** | 495 | Pokémon Go automation bot. |
-| **[DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)** | 394 | Datadog's APM client library for Ruby. |
-| **[sds/haml-lint](https://github.com/sds/haml-lint)** | 335 | HAML linter. |
-| **[rails/solid_cable](https://github.com/rails/solid_cable)** | 334 | Database-backed ActionCable adapter. |
-| **[dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker)** | 104 | ImageMagick container image. |
-| **[thriver/where_any](https://github.com/thriver/where_any)** | 13 | Postgres `ANY()` / `ALL()` for ActiveRecord. |
+| Repo                                                                                | ⭐    | Description                                                    |
+| ----------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------- |
+| **[rails/rails](https://github.com/rails/rails)**                                   | 58.4k | The Ruby on Rails framework itself.                            |
+| **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)**                                     | 48.5k | CLI proxy that cuts LLM token use by 60–90% on dev commands.   |
+| **[newrelic/newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent)** | 1.2k  | New Relic's Ruby APM agent.                                    |
+| **[rails/jsbundling-rails](https://github.com/rails/jsbundling-rails)**             | 921   | JavaScript bundling for Rails (esbuild, rollup, bun, Webpack). |
+| **[rails/cssbundling-rails](https://github.com/rails/cssbundling-rails)**           | 629   | CSS bundling for Rails (Tailwind, PostCSS, Sass).              |
+| **[mhfs/sidekiq-failures](https://github.com/mhfs/sidekiq-failures)**               | 579   | Track Sidekiq failed jobs.                                     |
+| **[MobBotTeam/PokeMobBot](https://github.com/MobBotTeam/PokeMobBot)**               | 495   | Pokémon Go automation bot.                                     |
+| **[DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)**                   | 394   | Datadog's APM client library for Ruby.                         |
+| **[sds/haml-lint](https://github.com/sds/haml-lint)**                               | 335   | HAML linter.                                                   |
+| **[rails/solid_cable](https://github.com/rails/solid_cable)**                       | 334   | Database-backed ActionCable adapter.                           |
+| **[dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker)**   | 104   | ImageMagick container image.                                   |
+| **[thriver/where_any](https://github.com/thriver/where_any)**                       | 13    | Postgres `ANY()` / `ALL()` for ActiveRecord.                   |
