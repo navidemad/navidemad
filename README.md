@@ -57,21 +57,21 @@ I'm available for freelance / consulting engagements around **agentic AI systems
 
 ### 🌍 Open Source
 
-**[99 merged PRs](https://github.com/search?q=is%3Apr+author%3Anavidemad+is%3Amerged+-user%3Anavidemad&type=pullrequests) across 16 OSS repos** — touching Rails core, Lightpanda, Datadog, New Relic, and beyond.
-Combined ⭐ of touched repos: **~146k**.
+**[127 merged PRs](https://github.com/search?q=is%3Apr+author%3Anavidemad+is%3Amerged+-user%3Anavidemad+-user%3Ayespark&type=pullrequests) across 18 OSS repos** — touching Rails core, Lightpanda, Datadog, New Relic, and beyond.
+Combined ⭐ of touched repos: **~169k**.
 
 **🛠️ Maintainer of:**
 
 | Repo                                                                        | ⭐  | Description                                                                                                     |
 | --------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------- |
-| **[capybara-lightpanda](https://github.com/navidemad/capybara-lightpanda)** | 3   | Run Capybara system tests on [Lightpanda](https://lightpanda.io), the ultra-fast headless browser built in Zig. |
+| **[capybara-lightpanda](https://github.com/navidemad/capybara-lightpanda)** | 4   | Run Capybara system tests on [Lightpanda](https://lightpanda.io), the ultra-fast headless browser built in Zig. |
 
 **🚀 Sustained contributions (multi-PR engagements):**
 
 | Repo                                                                              | PRs | ⭐    | Description                                                          |
 | --------------------------------------------------------------------------------- | --- | ----- | -------------------------------------------------------------------- |
+| **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)**             | 63  | 31.6k | Headless browser designed for AI & automation, built in Zig.         |
 | **[hostolab/covidliste](https://github.com/hostolab/covidliste)**                 | 43  | 252   | Rails platform that accelerated France's Covid-19 vaccination drive. |
-| **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)**             | 38  | 30.3k | Headless browser designed for AI & automation, built in Zig.         |
 | **[glebm/i18n-tasks](https://github.com/glebm/i18n-tasks)**                       | 3   | 2.2k  | Static analysis for Ruby i18n translations.                          |
 | **[NecronomiconCoding/NecroBot](https://github.com/NecronomiconCoding/NecroBot)** | 3   | 2.4k  | Open-source Pokémon Go automation bot.                               |
 
@@ -79,15 +79,17 @@ Combined ⭐ of touched repos: **~146k**.
 
 | Repo                                                                                | ⭐    | Description                                                    |
 | ----------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------- |
-| **[rails/rails](https://github.com/rails/rails)**                                   | 58.4k | The Ruby on Rails framework itself.                            |
-| **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)**                                     | 48.5k | CLI proxy that cuts LLM token use by 60–90% on dev commands.   |
+| **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)**                                     | 68.4k | CLI proxy that cuts LLM token use by 60–90% on dev commands.   |
+| **[rails/rails](https://github.com/rails/rails)**                                   | 58.7k | The Ruby on Rails framework itself.                            |
 | **[newrelic/newrelic-ruby-agent](https://github.com/newrelic/newrelic-ruby-agent)** | 1.2k  | New Relic's Ruby APM agent.                                    |
 | **[rails/jsbundling-rails](https://github.com/rails/jsbundling-rails)**             | 921   | JavaScript bundling for Rails (esbuild, rollup, bun, Webpack). |
-| **[rails/cssbundling-rails](https://github.com/rails/cssbundling-rails)**           | 629   | CSS bundling for Rails (Tailwind, PostCSS, Sass).              |
-| **[mhfs/sidekiq-failures](https://github.com/mhfs/sidekiq-failures)**               | 579   | Track Sidekiq failed jobs.                                     |
-| **[MobBotTeam/PokeMobBot](https://github.com/MobBotTeam/PokeMobBot)**               | 495   | Pokémon Go automation bot.                                     |
-| **[DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)**                   | 394   | Datadog's APM client library for Ruby.                         |
+| **[rails/cssbundling-rails](https://github.com/rails/cssbundling-rails)**           | 640   | CSS bundling for Rails (Tailwind, PostCSS, Sass).              |
+| **[mhfs/sidekiq-failures](https://github.com/mhfs/sidekiq-failures)**               | 580   | Track Sidekiq failed jobs.                                     |
+| **[MobBotTeam/PokeMobBot](https://github.com/MobBotTeam/PokeMobBot)**               | 494   | Pokémon Go automation bot.                                     |
+| **[DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)**                   | 407   | Datadog's APM client library for Ruby.                         |
+| **[rails/solid_cable](https://github.com/rails/solid_cable)**                       | 338   | Database-backed ActionCable adapter.                           |
 | **[sds/haml-lint](https://github.com/sds/haml-lint)**                               | 335   | HAML linter.                                                   |
-| **[rails/solid_cable](https://github.com/rails/solid_cable)**                       | 334   | Database-backed ActionCable adapter.                           |
-| **[dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker)**   | 104   | ImageMagick container image.                                   |
+| **[dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker)**   | 105   | ImageMagick container image.                                   |
+| **[judoscale/judoscale-ruby](https://github.com/judoscale/judoscale-ruby)**         | 97    | Autoscaling for Heroku, AWS, and other cloud platforms.        |
 | **[thriver/where_any](https://github.com/thriver/where_any)**                       | 13    | Postgres `ANY()` / `ALL()` for ActiveRecord.                   |
+| **[Scalingo/scalingo-ruby-api](https://github.com/Scalingo/scalingo-ruby-api)**     | 5     | Ruby wrapper for the Scalingo API.                             |
