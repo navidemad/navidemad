@@ -2,6 +2,8 @@
 
 Lead Fullstack Ruby on Rails Developer, also building agentic AI systems.
 
+<a href="https://navidemad.github.io/"><img alt="Website navidemad.github.io" src="https://img.shields.io/badge/-navidemad.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+
 ### 💼 Open for Agentic AI Consulting
 
 I'm available for freelance / consulting engagements around **agentic AI systems** for your projects/entreprises.
